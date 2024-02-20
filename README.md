@@ -1,5 +1,5 @@
 # POSHThings
-PowerShell things
-Tests and remarks for myself.
-OC You can use it also.
+Random PowerShell scripts.
+Created for my everyday Admin ramblings. 
+No warranty given, use as-is and read code!
  
